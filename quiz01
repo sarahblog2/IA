@@ -42,11 +42,15 @@ Reto adicional
 Encuentre un Space que pueda clasificarse como:
 
 Totalmente observable, determinista y episódico.
-https://huggingface.co/spaces/drguilhermeapolinario/player
+link: https://huggingface.co/spaces/drguilhermeapolinario/player
 El agente es totalmente observable porque se puede ver lo que hace en su interfaz, no requiere memoria y sigue reglas basicas 
 es determinista porque siempre realiza la misma accion y es episodico porque una ejecucion no depende de la anterior son independientes
 
 Parcialmente observable, estocástico y secuencial.
+link: https://huggingface.co/spaces/gimbx/Uncensored-HackerCoding-GPT
+Es parcialmente observable porque se ve la realizacion de la tarea parcialmente y guarda memoria para mejorar el codigo
+Es estocastico porque depende de las posibilidades para hacer el codigo mas optimo 
+es secuencial porque va guardando las respuestas anteriores y segun estas responde 
 Justifique su respuesta.
 
 
