@@ -38,5 +38,19 @@ Agente con aprendizaje
 
 Tipo de programa de agente: Agente basado en modelo ya que sigue un modelo fisico matematico para modificar la imagen 
 
+Reto adicional
+Encuentre un Space que pueda clasificarse como:
+
+Totalmente observable, determinista y episódico.
+https://huggingface.co/spaces/drguilhermeapolinario/player
+El agente es totalmente observable porque se puede ver lo que hace en su interfaz, no requiere memoria y sigue reglas basicas 
+es determinista porque siempre realiza la misma accion y es episodico porque una ejecucion no depende de la anterior son independientes
+
+Parcialmente observable, estocástico y secuencial.
+Justifique su respuesta.
+
+
+
+
 Importante: No existe una única respuesta correcta. Lo importante es justificar la elección a partir del comportamiento observado.
 
